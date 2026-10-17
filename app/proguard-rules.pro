@@ -1,0 +1,3 @@
+-keep class io.github.libxposed.** { *; }
+-keep class com.deekseep.pro.** { *; }
+-dontwarn io.github.libxposed.**
